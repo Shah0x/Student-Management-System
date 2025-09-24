@@ -32,10 +32,14 @@ Copy code
 
 ## Demo
 
+![Greetings_1](assets/Greeting_Popup_1.png)
+![Greeting_2](assets/Greeting_Intro.png)
+![Team](assets/Team_Info_Popup.png)
+![Console_output](assets/Console_Output.png)
 ![Add Student](assets/Add-Student-Console.png)
-![View Students](assets/view_students.png)
-![Edit Student](assets/edit_student.png)
-![Delete Student](assets/delete_student.png)
+
+
+
 
 ---
 
