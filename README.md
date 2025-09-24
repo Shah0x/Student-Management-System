@@ -32,7 +32,7 @@ Copy code
 
 ## Demo
 
-![Add Student](‎assets/Add-Student-Console.png)
+![Add Student](assets/Add-Student-Console.png)
 ![View Students](assets/view_students.png)
 ![Edit Student](assets/edit_student.png)
 ![Delete Student](assets/delete_student.png)
